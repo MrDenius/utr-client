@@ -1,0 +1,14 @@
+{
+	"name": "utr-client",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"start": "node src/app.js"
+	},
+	"dependencies": {
+		"@ctrl/utorrent": "^2.1.1",
+		"axios": "^0.21.1",
+		"chalk": "^4.1.0",
+		"cli": "^1.0.1"
+	}
+}
