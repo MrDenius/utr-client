@@ -6,9 +6,11 @@
 		"start": "node src/app.js"
 	},
 	"dependencies": {
-		"@ctrl/utorrent": "^2.1.1",
 		"axios": "^0.21.1",
 		"chalk": "^4.1.0",
-		"cli": "^1.0.1"
+		"cli": "^1.0.1",
+		"dotenv": "^8.2.0",
+		"utorrent-api": "^0.1.5",
+		"utorrent-web-api": "^0.3.2"
 	}
 }
